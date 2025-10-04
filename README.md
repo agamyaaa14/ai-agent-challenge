@@ -12,7 +12,7 @@ This project is an "Auto-Strategist" agent designed for robust, autonomous PDF p
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/agamyaaa14/ai-agent-challenge.git](https://github.com/agamyaaa14/ai-agent-challenge.git)
+    git clone https://github.com/agamyaaa14/ai-agent-challenge.git
     cd ai-agent-challenge
     ```
 
@@ -49,4 +49,4 @@ This project is an "Auto-Strategist" agent designed for robust, autonomous PDF p
 ---
 ## Demo Video
 
-[[Your Demo Video Link Here](https://www.loom.com/share/b27c1098183a417eae0a229133e8c27e?sid=2ee971a2-d377-4605-908e-be2a0fae9dbe)]
+[Demo Video Link](https://www.loom.com/share/b27c1098183a417eae0a229133e8c27e?sid=2ee971a2-d377-4605-908e-be2a0fae9dbe)
